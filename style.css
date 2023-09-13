@@ -1,4 +1,4 @@
-html {
+8html {
   background: linear-gradient(236.85deg, #22577a 27.26%, #38a3a5 96.03%) repeat;
   font-family: "Roboto", sans-serif;
   font-family: "Roboto", sans-serif;
@@ -43,7 +43,7 @@ button {
   background: #121613;
   color: #c7f9cc;
   box-shadow: 10px 10px 30px #050505;
-  padding: 21px 141px;
+  padding: 21px 181px;
   border-radius: 15px;
   font-size: 20px;
   cursor: pointer
