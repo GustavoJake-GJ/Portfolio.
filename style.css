@@ -21,7 +21,7 @@ body {
   font-size: 30px;
   display: flex;
   flex-wrap: wrap;
-  gap: 10px;
+  gap: 07px;
 }
 h1 {
   display: inline-block;
@@ -36,7 +36,7 @@ h1 {
   /*   margin-right: 35px; */
 }
 button {
-  margin-left: 90%;
+  margin-left: 92%;
   position: relative;
   bottom: 60px;
   border: none;
