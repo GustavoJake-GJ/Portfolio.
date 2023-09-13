@@ -1,0 +1,50 @@
+html {
+  background: linear-gradient(236.85deg, #22577a 27.26%, #38a3a5 96.03%) repeat;
+  font-family: "Roboto", sans-serif;
+  font-family: "Roboto", sans-serif;
+}
+body {
+  background: #c7f9cc;
+  background: #c7f9cc;
+  border-radius: 65px;
+  display: block;
+  /*   max-width: 740px; */
+  margin-left: 50px;
+  margin-right: 50px;
+  margin-top: 100px;
+  margin-bottom: 100px;
+  box-shadow: 15px 15px 15px #0e1d2f;
+  color: #1c1c1c;
+  padding: 65px 30px;
+  align-items: center;
+  text-align: center;
+  font-size: 30px;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 12px;
+}
+h1 {
+  display: inline-block;
+  vertical-align: top;
+  width: 20%;
+  margin-left: 07%;
+}
+.foto {
+  max-width: 300px;
+  border-radius: 75px;
+  margin-left: 7%;
+  /*   margin-right: 35px; */
+}
+button {
+  margin-left: 61%;
+  position: relative;
+  bottom: 60px;
+  border: none;
+  background: #121613;
+  color: #c7f9cc;
+  box-shadow: 10px 10px 30px #050505;
+  padding: 21px 51px;
+  border-radius: 15px;
+  font-size: 20px;
+  cursor: pointer
+}
