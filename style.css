@@ -46,5 +46,10 @@ button {
   padding: 21px 181px;
   border-radius: 15px;
   font-size: 20px;
-  cursor: pointer
+  cursor: pointer;
+  transition: all 0.2s;
+}
+button:hover {
+  letter-spacing: 3px;
+  opacity: 0.9;
 }
