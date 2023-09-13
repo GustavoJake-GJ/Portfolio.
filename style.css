@@ -15,7 +15,7 @@ body {
   margin-bottom: 100px;
   box-shadow: 15px 15px 15px #0e1d2f;
   color: #1c1c1c;
-  padding: 65px 10px;
+  padding: 65px 15px;
 /*   align-items: center; */
 /*   text-align: center; */
   font-size: 30px;
@@ -32,7 +32,7 @@ h1 {
 .foto {
   max-width: 300px;
   border-radius: 75px;
-  margin-left: 1%;
+  margin-left: 3%;
   /*   margin-right: 35px; */
 }
 button {
@@ -43,13 +43,13 @@ button {
   background: #121613;
   color: #c7f9cc;
   box-shadow: 10px 10px 30px #050505;
-  padding: 21px 181px;
+  padding: 21px 171px;
   border-radius: 15px;
   font-size: 20px;
   cursor: pointer;
   transition: all 0.2s;
 }
 button:hover {
-  letter-spacing: 3px;
+  letter-spacing: 2px;
   opacity: 0.9;
 }
