@@ -15,13 +15,13 @@ body {
   margin-bottom: 100px;
   box-shadow: 15px 15px 15px #0e1d2f;
   color: #1c1c1c;
-  padding: 65px 30px;
+  padding: 65px 20px;
   align-items: center;
   text-align: center;
   font-size: 30px;
   display: flex;
   flex-wrap: wrap;
-  gap: 12px;
+  gap: 10px;
 }
 h1 {
   display: inline-block;
@@ -32,7 +32,7 @@ h1 {
 .foto {
   max-width: 300px;
   border-radius: 75px;
-  margin-left: 7%;
+  margin-left: 2%;
   /*   margin-right: 35px; */
 }
 button {
@@ -43,7 +43,7 @@ button {
   background: #121613;
   color: #c7f9cc;
   box-shadow: 10px 10px 30px #050505;
-  padding: 21px 51px;
+  padding: 21px 41px;
   border-radius: 15px;
   font-size: 20px;
   cursor: pointer
