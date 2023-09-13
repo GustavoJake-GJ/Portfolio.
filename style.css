@@ -8,10 +8,10 @@ body {
   background: #c7f9cc;
   border-radius: 65px;
   display: block;
-  max-width: 1090px;
+  max-width: 1190px;
   min-width: 800px;
-  margin-left: 50px;
-  margin-right: 50px;
+  margin-left: auto;
+  margin-right: auto;
   margin-top: 100px;
   margin-bottom: 100px;
   box-shadow: 15px 15px 15px #0e1d2f;
