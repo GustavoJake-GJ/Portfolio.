@@ -34,7 +34,7 @@ h1 {
   border-radius: 75px;
   margin-left: 3%;
   /*   margin-right: 35px; */
-   animation: fantasminha 3s infinite
+   animation: fantasminha 5s infinite
 }
 button {
   margin-left: 59%;
@@ -58,7 +58,7 @@ button:hover {
   0% {transform: translateY(-7px)
   }
   50%{
-    transform: translateY(07px)
+    transform: translateY(27px)
   }
   100%{
     transform: translateY(-7px)
