@@ -8,7 +8,8 @@ body {
   background: #c7f9cc;
   border-radius: 65px;
   display: block;
-  /*   max-width: 740px; */
+  max-width: 740px;
+  min-width: 700px;
   margin-left: 50px;
   margin-right: 50px;
   margin-top: 100px;
