@@ -16,8 +16,8 @@ body {
   box-shadow: 15px 15px 15px #0e1d2f;
   color: #1c1c1c;
   padding: 65px 10px;
-  align-items: center;
-  text-align: center;
+/*   align-items: center; */
+/*   text-align: center; */
   font-size: 30px;
   display: flex;
   flex-wrap: wrap;
