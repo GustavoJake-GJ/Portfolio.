@@ -34,7 +34,8 @@ h1 {
   border-radius: 75px;
   margin-left: 3%;
   /*   margin-right: 35px; */
-   animation: fantasminha 5s infinite
+   animation: fantasminha 5s infinite;
+    box-shadow: 15px 0px 17px #0e1d2f;
 }
 button {
   margin-left: 59%;
