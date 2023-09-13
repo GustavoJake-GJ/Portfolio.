@@ -36,14 +36,14 @@ h1 {
   /*   margin-right: 35px; */
 }
 button {
-  margin-left: 92%;
+  margin-left: 52%;
   position: relative;
-  bottom: 60px;
+  bottom: 30px;
   border: none;
   background: #121613;
   color: #c7f9cc;
   box-shadow: 10px 10px 30px #050505;
-  padding: 21px 41px;
+  padding: 21px 141px;
   border-radius: 15px;
   font-size: 20px;
   cursor: pointer
