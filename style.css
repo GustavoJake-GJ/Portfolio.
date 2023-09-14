@@ -71,3 +71,28 @@ button:hover {
   100%{
     transform: translateY(-7px)
   }
+/*   tamanhos de telas */
+  @media screen and (max-width: 600px) {
+  span.lt600 {
+    display: inline-block;
+  }
+}
+
+/* min-width */
+@media screen and (min-width: 900px) {
+  span.gt900 {
+    display: inline-block;
+  }
+}
+
+/* min-width & max-width */
+@media screen and (min-width: 600px) and (max-width: 900px) {
+  span.bt600-900 {
+    display: inline-block;
+  }
+}
+
+/* max device width */
+@media screen and (max-device-width: 480px) {
+  display: inline-block;
+}
