@@ -69,8 +69,8 @@ button:hover {
       background: #c7f9cc;
       border-radius: 65px;
       display: block;
-      max-width: 500px;
-      min-width: 400px;
+      max-width: 400px;
+      min-width: 350px;
       margin-left: auto;
       margin-right: auto;
       margin-top: 100px;
@@ -78,7 +78,7 @@ button:hover {
       box-shadow: 15px 15px 15px #0e1d2f;
       color: #1c1c1c;
       padding: 65px 30px;
-      align-items: center;
+/*       align-items: center; */
       text-align: center;
       font-size: 30px;
       display: flex;
@@ -92,15 +92,15 @@ button:hover {
       margin-left: 07%;
     }
     .foto {
-      max-width: 250px;
+      max-width: 200px;
       border-radius: 75px;
-      margin-left: 7%;
+      margin-left: 2%;
       /*   margin-right: 35px; */
     }
     button {
       margin-left: 71%;
       position: relative;
-      bottom: 60px;
+      bottom: 25px;
       border: none;
       background: #121613;
       color: #c7f9cc;
@@ -142,7 +142,7 @@ button:hover {
       box-shadow: 15px 15px 15px #0e1d2f;
       color: #1c1c1c;
       padding: 65px 30px;
-      align-items: center;
+/*       align-items: center; */
       text-align: center;
       font-size: 30px;
       display: flex;
