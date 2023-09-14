@@ -35,7 +35,8 @@ h1 {
   max-width: 300px;
   border-radius: 75px;
   margin-left: 7%;
-  /*   margin-right: 35px; */
+  /*   margin-right: 35px; */box-shadow: 1x 10px 30px #050505;
+      animation: fantasminha 5s infinite;
 }
 button {
   margin-left: 71%;
@@ -96,6 +97,8 @@ button:hover {
       border-radius: 75px;
       margin-left: 2%;
       /*   margin-right: 35px; */
+      box-shadow: 1x 10px 30px #050505;
+      animation: fantasminha 5s infinite;
     }
     button {
       margin-left: 71%;
@@ -160,6 +163,8 @@ button:hover {
       border-radius: 75px;
       margin-left: 7%;
       /*   margin-right: 35px; */
+      box-shadow: 1x 10px 30px #050505;
+      animation: fantasminha 5s infinite;
     }
     button {
       margin-left: 71%;
@@ -224,6 +229,8 @@ button:hover {
       border-radius: 75px;
       margin-left: 7%;
       /*   margin-right: 35px; */
+      box-shadow: 1x 10px 30px #050505;
+      animation: fantasminha 5s infinite;
     }
     button {
       margin-left: 71%;
@@ -249,4 +256,14 @@ button:hover {
 /* max device width */
 @media screen and (max-device-width: 480px) {
   display: inline-block;
+}
+@keyframes fantasminha{
+   0% {
+    transform: translateY(-7px);
+  }
+  60% {
+    transform: translateY(15px);
+  }
+  100% {
+    transform: translateY(-7px);
 }
